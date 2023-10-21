@@ -1,2 +1,3 @@
 # Arithmetic-Process-Program
-Printf ve scanf kullanarak denklem hesaplama
+Calculating equations using printf and scanf
+
